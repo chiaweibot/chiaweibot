@@ -1,3 +1,3 @@
 
-<img src="metadata/samoyed.jpg" width="600">
+<img src="metadata/samoyed.jpg" width="360">
  
